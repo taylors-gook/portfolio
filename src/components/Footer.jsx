@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <section id='footer' role='conterinfo'>
+    <section id='footer' role='contentinfo'>
       <div className='footer_inner'>
         <div className='footer_text'>
           <span>CHAIHWAN JUNG</span>

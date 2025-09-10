@@ -31,10 +31,6 @@ const Contact = () => {
                 <a href={contact.link} target='_blank' rel='noreferrer'>{contact.title}</a>
               </div>
             ))}
-            
-            <div>
-              <a href="mailto:jungch0823@naver.com" target='_blank' rel='noreferrer'></a>
-            </div>
           </div>
         </div>
         <div className="contact_lines bottom" aira-hidden="true">
